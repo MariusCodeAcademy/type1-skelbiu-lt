@@ -33,9 +33,29 @@ Skelbimų portalas
   - footer
 
 - MyAdds - (matomas tik prisijungus)
+
   - content
     - createAdd - sukurti skelbima
-    - listOfMyAdds -
+    - listOfMyAdds - mano skelbimai
+
+- RegisterPage
+
+  - Register component
+
+- LoginPage
+
+  - LoginComponent
+
+### createAdd component
+
+form than allows to create new add,
+
+### fields:
+
+1. title
+2. body
+3. price
+4. image - upload field
 
 ## Pavyzdziai
 
