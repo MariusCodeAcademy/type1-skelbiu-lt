@@ -28,11 +28,11 @@ Skelbimų portalas
 
 - HomePage (prisiloginus)
 
-  - navbar - home, logout, MyAdds
+  - navbar - home, logout, MyAccount
   - content - ateje matom visus skelbimus
   - footer
 
-- MyAdds - (matomas tik prisijungus)
+- MyAccount - (matomas tik prisijungus)
 
   - content
     - createAdd - sukurti skelbima
