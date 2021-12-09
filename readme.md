@@ -17,4 +17,22 @@ Skelbimų portalas
    pvz `skelbiu-fe-mk`
 2. Susikuriam backui node express projekta(pradziai gali but tik packacege.json ir index.js failai) pasivadinam `skelbiu-api-(jusu vardu inicialai)`. paties vardo repozitorija github
    pvz `skelbiu-api-mk`
-3.
+
+## Front end struktura
+
+- HomePage
+
+  - navbar - home, login, register
+  - content - ateje matom visus skelbimus
+  - footer
+
+- HomePage (prisiloginus)
+
+  - navbar - home, logout, MyAdds
+  - content - ateje matom visus skelbimus
+  - footer
+
+- MyAdds - (matomas tik prisijungus)
+  - content
+    - createAdd - sukurti skelbima
+    - listOfMyAdds -
