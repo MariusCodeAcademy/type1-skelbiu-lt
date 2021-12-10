@@ -9,3 +9,4 @@
 7. Pasidarom pagrindiniu prekiu atvaizdavimo korteles elementa.
 8. Pasidarom pagrindiniu prekiu atvaizdavimo korteliu saraso elementa.
 9. Pasidarom kad korteles butu responsive 450px, 800px, 1200px,
+10.Register formoj pridedam papildomai laukus: town ir phone
