@@ -60,6 +60,3 @@ form than allows to create new add,
 ## Pavyzdziai
 
 1. [Radiustheme](https://www.radiustheme.com/demo/wordpress/themes/classilist/)
-2. [Clasic shop](https://flatsome3.uxthemes.com/demos/shop-demos/classic-shop/)
-3. [Clasic simple slider](https://flatsome3.uxthemes.com/demos/shop-demos/simple-slider/)
-4. [Bridgelanding](https://bridgelanding.qodeinteractive.com/shop-with-sidebar/)
