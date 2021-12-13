@@ -5,3 +5,4 @@
 3. Set up empty Login route. `POST /api/auth/login` Console log the data from users login form in BE. Send back {msg: 'success', token: ''}
 4. Set up empty Register route. `POST /api/auth/register` Console log the data from users Register form in BE. {msg: 'register success'}
 5. Set up connection to DB. Use mysql or mongoDb.
+6. Install JWT for tokens and bcrypt for password hashing

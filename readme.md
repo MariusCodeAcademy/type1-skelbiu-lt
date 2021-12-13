@@ -57,6 +57,26 @@ form than allows to create new add,
 3. price
 4. image - upload field
 
+## BACK END response
+
+Lets always respond in a same way
+
+```
+Success response:
+{
+  msg: 'success message',
+  data: []/{}
+}
+Error response:
+{
+  error: 'error message',
+  errors: [] // optional
+}
+Let respond with 2 error response codes:
+- 500 (server error)
+- 400 (bad input)
+```
+
 ## Pavyzdziai
 
 1. [Radiustheme](https://www.radiustheme.com/demo/wordpress/themes/classilist/)
