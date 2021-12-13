@@ -9,4 +9,5 @@
 7. Create table users. Add one user manually.
 8. Register route. When you get user email, check if such email already exists in the table. Send feedback to front end if exists.
 9. Register route. Hash password and store it into a DB table users.
-10. Login route. Set up JWT tokens and send back user token that has 1 hour expiration date. sent back user email for convenience.
+10. Login route. Validate user.
+11. Login route. if valid. Set up JWT tokens and send back user token that has 1 hour expiration date. sent back user email for convenience.
