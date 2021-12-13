@@ -11,6 +11,12 @@ Skelbimų portalas
 5. MyAccount puslapis kuriame matome tik savo skelbimus ir galime sukurti nauja
 6. HomePage, prisijunge ir neprisijunge matome visus skelbimus
 
+## Techonolgija
+
+1. Front end React.js
+2. Back end node.js, express.js
+3. DB mysql arba mongoDb.
+
 <!-- ## Eiga (nebutinai tokia tvarka) -->
 
 ## Reikia:
