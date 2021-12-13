@@ -46,17 +46,6 @@ Skelbimų portalas
 
   - LoginComponent
 
-### createAdd component
-
-form than allows to create new add,
-
-### fields:
-
-1. title
-2. body
-3. price
-4. image - upload field
-
 ## BACK END response
 
 Lets always respond in a same way
