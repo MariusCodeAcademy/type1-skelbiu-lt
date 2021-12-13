@@ -6,8 +6,10 @@ Skelbimų portalas
 
 1. Vartotojo registracija,
 2. Prisijungimas, (jwt)
-3. Produktų įkėlimas,
+3. Skelbimu įkėlimas,
 4. Galimybė prisidėt skelbimą į favorites
+5. MyAccount puslapis kuriame matome tik savo skelbimus ir galime sukurti nauja
+6. HomePage, prisijunge ir neprisijunge matome visus skelbimus
 
 <!-- ## Eiga (nebutinai tokia tvarka) -->
 
